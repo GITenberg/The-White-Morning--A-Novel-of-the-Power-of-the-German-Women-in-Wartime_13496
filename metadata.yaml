@@ -1,0 +1,32 @@
+_repo: The-White-Morning--A-Novel-of-the-Power-of-the-German-Women-in-Wartime_13496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Lin, Frank
+    - Horn, Gertrude Franklin
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2004-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- History -- Revolution, 1918 -- Fiction'
+- !lcsh 'Women -- Germany -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Germany -- Fiction'
+- !lcc 'PS'
+title: 'The White Morning: A Novel of the Power of the German Women in Wartime'
+url: http://www.gutenberg.org/ebooks/13496
